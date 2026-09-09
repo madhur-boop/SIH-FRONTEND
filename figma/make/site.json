@@ -1,0 +1,10 @@
+{
+  "description": "Streamline document verification and fake document detection for administrators with a secure, user-friendly interface that enhances efficiency and accuracy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
